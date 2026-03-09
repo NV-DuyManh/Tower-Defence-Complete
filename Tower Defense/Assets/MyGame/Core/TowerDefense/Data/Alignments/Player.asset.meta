@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2e20cdb38c63f4edf8ee385c50c089ce
+timeCreated: 1503046466
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Data/Alignments/Player.asset
+  uploadId: 406584

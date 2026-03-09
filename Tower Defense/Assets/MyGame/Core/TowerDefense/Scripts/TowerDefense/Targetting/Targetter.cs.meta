@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d0e4035901ee40bba7c0866d2c6338a1
+timeCreated: 1500880989
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/Targetting/Targetter.cs
+  uploadId: 406584

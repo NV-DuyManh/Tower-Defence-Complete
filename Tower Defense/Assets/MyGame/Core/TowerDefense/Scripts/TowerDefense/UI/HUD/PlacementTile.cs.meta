@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d06238ca2d764f9f83038ae27a1aea89
+timeCreated: 1502112204
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/UI/HUD/PlacementTile.cs
+  uploadId: 406584

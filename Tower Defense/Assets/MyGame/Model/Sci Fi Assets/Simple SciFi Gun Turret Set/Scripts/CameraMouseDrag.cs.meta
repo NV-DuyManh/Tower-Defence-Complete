@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3c409371c53820c47bf86a01396d7afb
+timeCreated: 1468585403
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62750
+  packageName: SciFi Simple Gun Turret Set
+  packageVersion: 1.0
+  assetPath: Assets/Sci Fi Assets/Simple SciFi Gun Turret Set/Scripts/CameraMouseDrag.cs
+  uploadId: 227306

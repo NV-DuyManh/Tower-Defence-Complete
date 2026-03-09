@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4e6be80d4c964848a5fc4c6adb5ef8ed
+timeCreated: 1501744936
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/Level/Editor/WaveEditor.cs
+  uploadId: 406584

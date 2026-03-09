@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7d012ff014d994436a27059a09e8ab64
+timeCreated: 1504513055
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/Agents/HomeBaseAttacker.cs
+  uploadId: 406584

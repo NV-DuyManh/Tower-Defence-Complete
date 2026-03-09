@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: a620e61fa6a0493cad482b6d7ff8f274
+timeCreated: 1503654686
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/Core/Utilities/HexPoint.cs
+  uploadId: 406584

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ba8d08bb63b080f47b6c5bcfcd7a92e4
+timeCreated: 1541276724
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134222
+  packageName: Free Sci Fi Gatling Gun
+  packageVersion: 1.0
+  assetPath: Assets/FREE GatlingGun/Environment/Skyboxes/Moonlit_2k.mat
+  uploadId: 282065

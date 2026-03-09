@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b75eb6f554ae040cbaaf7df021b2ce06
+timeCreated: 1499951118
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Prefabs/Towers/Laser/LaserTower_1.prefab
+  uploadId: 406584

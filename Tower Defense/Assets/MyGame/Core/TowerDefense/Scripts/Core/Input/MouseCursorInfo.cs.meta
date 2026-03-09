@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 6e43a62b7bf845529a839a96717d8fd4
+timeCreated: 1499855288
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/Core/Input/MouseCursorInfo.cs
+  uploadId: 406584

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 9ba55350ea35462ca0c4acd167b34dae
+timeCreated: 1498454038
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/UI/HUD/PlayerBaseHealth.cs
+  uploadId: 406584

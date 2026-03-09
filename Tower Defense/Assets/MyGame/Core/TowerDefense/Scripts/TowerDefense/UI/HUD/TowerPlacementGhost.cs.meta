@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 9b93acb82b2747678354bf447745c61f
+timeCreated: 1497352342
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/UI/HUD/TowerPlacementGhost.cs
+  uploadId: 406584

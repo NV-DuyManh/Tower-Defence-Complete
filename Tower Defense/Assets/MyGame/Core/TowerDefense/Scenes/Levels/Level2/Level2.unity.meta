@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f1f1e0e236a174f65bd47b4b7651d94b
+timeCreated: 1497960467
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scenes/Levels/Level2/Level2.unity
+  uploadId: 406584

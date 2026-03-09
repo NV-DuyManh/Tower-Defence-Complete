@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 3e88b5a37d2f4bc1ad6d6414117ed141
+timeCreated: 1498050254
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/Towers/Projectiles/HitscanAttack.cs
+  uploadId: 406584

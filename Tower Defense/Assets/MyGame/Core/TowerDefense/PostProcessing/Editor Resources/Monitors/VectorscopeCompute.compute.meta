@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 45de9ff58691e934c9810dc23de2ba50
+timeCreated: 1459956391
+licenseType: Store
+ComputeShaderImporter:
+  currentAPIMask: 4
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62750
+  packageName: SciFi Simple Gun Turret Set
+  packageVersion: 1.0
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/PostProcessing/Editor
+    Resources/Monitors/VectorscopeCompute.compute
+  uploadId: 227306

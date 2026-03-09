@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c11a889ae581148039036a639c0ab779
+timeCreated: 1498556140
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Prefabs/Towers/Rocket/RocketProjectile_0.prefab
+  uploadId: 406584

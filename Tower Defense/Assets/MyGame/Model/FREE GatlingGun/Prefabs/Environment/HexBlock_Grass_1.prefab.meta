@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8f8e835a19220d944b561e9c3ca285bf
+timeCreated: 1543915495
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134222
+  packageName: Free Sci Fi Gatling Gun
+  packageVersion: 1.0
+  assetPath: Assets/FREE GatlingGun/Prefabs/Environment/HexBlock_Grass_1.prefab
+  uploadId: 282065

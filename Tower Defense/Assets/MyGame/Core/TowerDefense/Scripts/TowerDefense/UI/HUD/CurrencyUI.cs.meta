@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5325b61d803c4d32a3d2a449cff892d8
+timeCreated: 1498227940
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/UI/HUD/CurrencyUI.cs
+  uploadId: 406584

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c402c596261e84e41971f8924977293a
+timeCreated: 1541298545
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134222
+  packageName: Free Sci Fi Gatling Gun
+  packageVersion: 1.0
+  assetPath: Assets/FREE GatlingGun/Environment/HexBlocks/Materials/HexBlock_Snow_1.mat
+  uploadId: 282065

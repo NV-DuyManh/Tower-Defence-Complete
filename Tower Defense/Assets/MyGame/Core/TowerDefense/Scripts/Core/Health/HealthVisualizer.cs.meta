@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 5440fde571ec4db4a719f37df8e972f0
+timeCreated: 1500469125
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/Core/Health/HealthVisualizer.cs
+  uploadId: 406584

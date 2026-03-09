@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: efb10d7ff0ce740ddbe3917f7d378877
+timeCreated: 1496038875
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/Core/UI/AnimatingMainMenuPage.cs
+  uploadId: 406584

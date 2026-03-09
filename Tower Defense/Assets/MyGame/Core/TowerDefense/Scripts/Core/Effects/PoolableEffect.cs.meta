@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: c761263c94b743e1b1027bb706ab9af5
+timeCreated: 1504602768
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/Core/Effects/PoolableEffect.cs
+  uploadId: 406584

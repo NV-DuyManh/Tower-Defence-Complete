@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 31e0501eeef9f41cd9a0ad30d4889a27
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scenes/Levels/Level5/Level5/LightingData.asset
+  uploadId: 406584

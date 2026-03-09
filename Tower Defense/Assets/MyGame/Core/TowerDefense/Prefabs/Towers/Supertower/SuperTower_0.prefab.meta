@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 06f0112fbf82244059dd2f2738a29a93
+timeCreated: 1499951470
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Prefabs/Towers/Supertower/SuperTower_0.prefab
+  uploadId: 406584

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4c987968358743c0a2ad4957cf1c4ee8
+timeCreated: 1499858278
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/Towers/ITowerRadiusProvider.cs
+  uploadId: 406584

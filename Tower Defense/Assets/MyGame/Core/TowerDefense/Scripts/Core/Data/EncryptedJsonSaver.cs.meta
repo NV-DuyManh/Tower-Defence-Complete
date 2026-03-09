@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d38fbb1a937694b68bbe5ca68bf8aedd
+timeCreated: 1495796369
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/Core/Data/EncryptedJsonSaver.cs
+  uploadId: 406584

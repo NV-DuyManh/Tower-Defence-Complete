@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 64dfe94c3cd6432db9993a2305627462
+timeCreated: 1499339637
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/Affectors/SlowAffector.cs
+  uploadId: 406584

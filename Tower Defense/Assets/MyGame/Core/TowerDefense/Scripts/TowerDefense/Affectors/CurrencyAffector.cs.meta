@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: edd941a0afc941b080f06d3bf45aa570
+timeCreated: 1499269644
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/Affectors/CurrencyAffector.cs
+  uploadId: 406584

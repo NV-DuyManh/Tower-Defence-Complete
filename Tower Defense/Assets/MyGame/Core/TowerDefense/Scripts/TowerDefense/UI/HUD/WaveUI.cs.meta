@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3eb0cbf6d1d5420b91ef259cc18a6c0f
+timeCreated: 1498228659
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/UI/HUD/WaveUI.cs
+  uploadId: 406584

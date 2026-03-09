@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e213272ad8ff213409a6e13b5c26b4e4
+timeCreated: 1464341416
+licenseType: Store
+ComputeShaderImporter:
+  currentAPIMask: 4
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62750
+  packageName: SciFi Simple Gun Turret Set
+  packageVersion: 1.0
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/PostProcessing/Resources/Shaders/EyeHistogram.compute
+  uploadId: 227306

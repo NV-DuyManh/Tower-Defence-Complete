@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 0a08c123ccbe46cebdf39046112acf91
+timeCreated: 1498126392
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/Towers/Placement/IPlacementArea.cs
+  uploadId: 406584

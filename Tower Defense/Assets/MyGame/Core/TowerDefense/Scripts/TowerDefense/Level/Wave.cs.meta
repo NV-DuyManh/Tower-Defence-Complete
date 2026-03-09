@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3e163b44e2cbd43b1b9d9b55ed78cca0
+timeCreated: 1496992103
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/Level/Wave.cs
+  uploadId: 406584

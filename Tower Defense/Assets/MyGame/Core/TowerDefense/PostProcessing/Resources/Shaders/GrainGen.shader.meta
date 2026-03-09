@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 11852d1b1b034654bb03e7c8fda28fbf
+timeCreated: 1476347976
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62750
+  packageName: SciFi Simple Gun Turret Set
+  packageVersion: 1.0
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/PostProcessing/Resources/Shaders/GrainGen.shader
+  uploadId: 227306

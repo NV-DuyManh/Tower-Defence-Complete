@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9da67c390eb3c4207ad63333f3c9f5d4
+timeCreated: 1497851848
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/Level/LevelState.cs
+  uploadId: 406584

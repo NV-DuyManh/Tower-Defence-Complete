@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0dba493688cc24e6ebe9988434057079
+timeCreated: 1499956651
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Prefabs/Enemies/Hoverboss.prefab
+  uploadId: 406584

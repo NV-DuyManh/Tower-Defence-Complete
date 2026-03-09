@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 1614fe95a3e24059b1657fde1d84573c
+timeCreated: 1501837101
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/ActionGameFramework/Projectiles/WobblingHomingProjectile.cs
+  uploadId: 406584

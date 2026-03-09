@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9e46692a9e928ca49bd023543b8c1af7
+timeCreated: 1517400072
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62750
+  packageName: SciFi Simple Gun Turret Set
+  packageVersion: 1.0
+  assetPath: Assets/Sci Fi Assets/Simple SciFi Gun Turret Set/Scripts/Camera1.prefab
+  uploadId: 227306

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4a4f7293b07e4698a4e3b652679f0c75
+timeCreated: 1499268618
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/Affectors/AttackAffector.cs
+  uploadId: 406584

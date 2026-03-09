@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0a999e641c982a14d9c68dfd53a98afc
+timeCreated: 1469104178
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62750
+  packageName: SciFi Simple Gun Turret Set
+  packageVersion: 1.0
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/PostProcessing/Resources/Shaders/Tonemapping.cginc
+  uploadId: 227306

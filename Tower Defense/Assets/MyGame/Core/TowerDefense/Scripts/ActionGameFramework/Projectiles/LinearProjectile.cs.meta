@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: aa99996c5ce2940388b7599dea31bd82
+timeCreated: 1496819550
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/ActionGameFramework/Projectiles/LinearProjectile.cs
+  uploadId: 406584

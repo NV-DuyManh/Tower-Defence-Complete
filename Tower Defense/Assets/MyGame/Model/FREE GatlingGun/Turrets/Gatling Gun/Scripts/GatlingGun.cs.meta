@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 918170c09d88a7f47991f97e2ae42f62
+timeCreated: 1537904067
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134222
+  packageName: Free Sci Fi Gatling Gun
+  packageVersion: 1.0
+  assetPath: Assets/FREE GatlingGun/Turrets/Gatling Gun/Scripts/GatlingGun.cs
+  uploadId: 282065

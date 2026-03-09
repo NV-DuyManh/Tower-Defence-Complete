@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5f4fcbe437cf1459083ac2acb5d190f6
+timeCreated: 1504518025
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scenes/Levels/Level1_Prototype/Level1_Prototype/NavMesh.asset
+  uploadId: 406584

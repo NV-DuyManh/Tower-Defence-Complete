@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c488058b7a0746929e379d651807e08e
+timeCreated: 1503475086
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/UI/TowerDefenseInputSchemeSwitcher.cs
+  uploadId: 406584

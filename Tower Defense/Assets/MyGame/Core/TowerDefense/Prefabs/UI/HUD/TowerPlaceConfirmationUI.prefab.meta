@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2eae42b6767cf447fa8afb98ead633dd
+timeCreated: 1500552865
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Prefabs/UI/HUD/TowerPlaceConfirmationUI.prefab
+  uploadId: 406584

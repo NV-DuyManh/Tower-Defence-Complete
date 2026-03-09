@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6a34e73e32589463d876694f8f66ba58
+timeCreated: 1495801257
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/Core/Utilities/Timer.cs
+  uploadId: 406584

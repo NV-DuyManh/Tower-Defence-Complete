@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ddc2c19b8a216d748a357ffe32ba4dc1
+timeCreated: 1472211508
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62750
+  packageName: SciFi Simple Gun Turret Set
+  packageVersion: 1.0
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/PostProcessing/Resources/Shaders/DepthOfField.cginc
+  uploadId: 227306

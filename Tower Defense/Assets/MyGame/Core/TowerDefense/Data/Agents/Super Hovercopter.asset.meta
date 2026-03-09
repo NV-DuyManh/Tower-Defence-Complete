@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dbc9a9a280d954f8a8da3b53ca26f80b
+timeCreated: 1498727814
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Data/Agents/Super Hovercopter.asset
+  uploadId: 406584

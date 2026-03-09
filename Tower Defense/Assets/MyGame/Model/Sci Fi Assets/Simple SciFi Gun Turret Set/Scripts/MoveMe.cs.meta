@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: dcacf06f7141a9c4cb9218acadd9a6db
+timeCreated: 1510667132
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62750
+  packageName: SciFi Simple Gun Turret Set
+  packageVersion: 1.0
+  assetPath: Assets/Sci Fi Assets/Simple SciFi Gun Turret Set/Scripts/MoveMe.cs
+  uploadId: 227306

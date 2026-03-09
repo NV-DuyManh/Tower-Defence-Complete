@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d9fd82344e2924351b3b1a1249acc412
+timeCreated: 1499955416
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Prefabs/Enemies/Hovercopter.prefab
+  uploadId: 406584

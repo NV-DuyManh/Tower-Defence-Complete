@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a958d11acaa34c4a9dff40362183e28
+timeCreated: 1497960467
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scenes/Levels/Level3/Level3.unity
+  uploadId: 406584

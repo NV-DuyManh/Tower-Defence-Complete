@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4fc36ea130194394eba5ecfb46396b5d
+timeCreated: 1513959762
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Documentation/TowerDefenseDocumentation.pdf
+  uploadId: 406584

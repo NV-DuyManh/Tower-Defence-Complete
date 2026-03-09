@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7d8e931fd319b4985a52e88c5d1cceb4
+timeCreated: 1499687573
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Prefabs/Health/TowerAudio.prefab
+  uploadId: 406584

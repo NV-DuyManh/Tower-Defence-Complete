@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 0836d84cbc5c457786724b591356b620
+timeCreated: 1501141735
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/Core/Input/InputScheme.cs
+  uploadId: 406584

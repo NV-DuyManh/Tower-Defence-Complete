@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0466565e09a6740f7973d62d0154acfc
+timeCreated: 1495798832
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/Core/Data/IDataStore.cs
+  uploadId: 406584

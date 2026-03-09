@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: de0c6f71c1ef54a1b90ae463b62bf24d
+timeCreated: 1496670429
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/ActionGameFramework/Helpers/Ballistics.cs
+  uploadId: 406584

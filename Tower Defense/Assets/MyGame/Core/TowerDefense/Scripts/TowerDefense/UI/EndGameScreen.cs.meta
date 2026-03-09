@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 90b8a68ca7b1748639823a13a9837bd4
+timeCreated: 1498223969
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/UI/EndGameScreen.cs
+  uploadId: 406584

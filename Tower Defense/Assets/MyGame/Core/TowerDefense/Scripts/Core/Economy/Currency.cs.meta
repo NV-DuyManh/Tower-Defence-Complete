@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8d6f53351a83f485d93729f4f14aa2f7
+timeCreated: 1496644800
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/Core/Economy/Currency.cs
+  uploadId: 406584

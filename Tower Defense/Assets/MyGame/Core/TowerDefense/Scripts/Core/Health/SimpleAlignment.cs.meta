@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: a6f1be0453c54638b1c63e16bf45d671
+timeCreated: 1503040036
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/Core/Health/SimpleAlignment.cs
+  uploadId: 406584

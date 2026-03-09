@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 891051237b74a48fbaee8a137202b0cc
+timeCreated: 1502721803
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Prefabs/Enemies/EnemyShootEffect.prefab
+  uploadId: 406584

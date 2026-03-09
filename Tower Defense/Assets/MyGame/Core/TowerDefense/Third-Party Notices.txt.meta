@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e65c718ab23995b49bcf1218cc3e72ab
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Third-Party Notices.txt
+  uploadId: 406584

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6f0f43871473046e691e3ba99046e8df
+timeCreated: 1495790723
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/Core/Extensions/GameObjectExtensions.cs
+  uploadId: 406584

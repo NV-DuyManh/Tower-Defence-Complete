@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e9dbbe0a9162d4ea08b6fb9ee3a23ade
+timeCreated: 1497250201
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/Level/TimedWave.cs
+  uploadId: 406584

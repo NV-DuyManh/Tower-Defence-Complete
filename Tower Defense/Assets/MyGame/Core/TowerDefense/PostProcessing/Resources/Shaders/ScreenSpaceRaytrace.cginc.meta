@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a92d6fdbe2c35f94190497c18b88f9af
+timeCreated: 1464350148
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62750
+  packageName: SciFi Simple Gun Turret Set
+  packageVersion: 1.0
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/PostProcessing/Resources/Shaders/ScreenSpaceRaytrace.cginc
+  uploadId: 227306

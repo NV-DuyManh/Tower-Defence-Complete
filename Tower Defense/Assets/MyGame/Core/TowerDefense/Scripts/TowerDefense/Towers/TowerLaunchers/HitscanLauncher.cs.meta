@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: de49640db9f74ca892b78c0d6bb4eb02
+timeCreated: 1498469268
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/Towers/TowerLaunchers/HitscanLauncher.cs
+  uploadId: 406584

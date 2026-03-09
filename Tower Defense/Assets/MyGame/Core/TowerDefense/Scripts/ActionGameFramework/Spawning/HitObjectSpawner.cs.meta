@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 83b0baa4a98e8431ca49c192f63b020a
+timeCreated: 1496317213
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/ActionGameFramework/Spawning/HitObjectSpawner.cs
+  uploadId: 406584

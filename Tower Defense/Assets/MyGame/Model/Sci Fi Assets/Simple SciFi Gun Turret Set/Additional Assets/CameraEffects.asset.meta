@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7088ce732d4c4854aa8b35e0d69b51ca
+timeCreated: 1517401688
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62750
+  packageName: SciFi Simple Gun Turret Set
+  packageVersion: 1.0
+  assetPath: Assets/Sci Fi Assets/Simple SciFi Gun Turret Set/Additional Assets/CameraEffects.asset
+  uploadId: 227306

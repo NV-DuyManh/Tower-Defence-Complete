@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f9a88c696ebce45318e1ae33adc9cfbc
+timeCreated: 1497530361
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Data/TowerLibrary/Level_1_TowerLibrary.asset
+  uploadId: 406584

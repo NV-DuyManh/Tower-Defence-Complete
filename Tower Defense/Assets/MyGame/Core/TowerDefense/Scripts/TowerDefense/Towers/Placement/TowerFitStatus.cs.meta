@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: eb0f40551aa9458b8cc7154559891f03
+timeCreated: 1499857705
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/Towers/Placement/TowerFitStatus.cs
+  uploadId: 406584

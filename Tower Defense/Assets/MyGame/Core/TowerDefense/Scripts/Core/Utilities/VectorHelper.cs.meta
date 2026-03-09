@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: bde050cea89444fe8c5207b338f0933c
+timeCreated: 1499764888
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/Core/Utilities/VectorHelper.cs
+  uploadId: 406584

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: abb1aca7f374d4d518e9857a8a14a963
+timeCreated: 1502437217
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Prefabs/Audio/MenuMusic.prefab
+  uploadId: 406584

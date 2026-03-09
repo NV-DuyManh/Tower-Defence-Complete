@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0bd18560e04168f4f92c6d3b5f07c83c
+timeCreated: 1543917529
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 25800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134222
+  packageName: Free Sci Fi Gatling Gun
+  packageVersion: 1.0
+  assetPath: Assets/FREE GatlingGun/Gatling Gun Test/LightingData.asset
+  uploadId: 282065

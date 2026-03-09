@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 2952db25fdd244f4a9981e4350b798e2
+timeCreated: 1499432027
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/Towers/SelfDestroyTimer.cs
+  uploadId: 406584

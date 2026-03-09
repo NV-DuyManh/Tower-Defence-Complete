@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 9d537e04c29c4370b84693bfcaf3f66b
+timeCreated: 1499333710
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/Agents/AgentSlower.cs
+  uploadId: 406584

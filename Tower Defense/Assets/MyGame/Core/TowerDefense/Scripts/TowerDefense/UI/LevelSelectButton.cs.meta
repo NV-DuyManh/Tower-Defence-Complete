@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: b046f32f124c49e6bc1f72ebc249cd79
+timeCreated: 1498198426
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/UI/LevelSelectButton.cs
+  uploadId: 406584

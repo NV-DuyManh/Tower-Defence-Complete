@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4ef49f7917004103834ac7530eb81c64
+timeCreated: 1496913830
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/Towers/Tower.cs
+  uploadId: 406584

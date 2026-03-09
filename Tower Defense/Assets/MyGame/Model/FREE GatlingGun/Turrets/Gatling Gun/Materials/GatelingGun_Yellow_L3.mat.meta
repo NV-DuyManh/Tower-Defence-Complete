@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d8ead994a922235418dece84e2240aa5
+timeCreated: 1537217114
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134222
+  packageName: Free Sci Fi Gatling Gun
+  packageVersion: 1.0
+  assetPath: Assets/FREE GatlingGun/Turrets/Gatling Gun/Materials/GatelingGun_Yellow_L3.mat
+  uploadId: 282065

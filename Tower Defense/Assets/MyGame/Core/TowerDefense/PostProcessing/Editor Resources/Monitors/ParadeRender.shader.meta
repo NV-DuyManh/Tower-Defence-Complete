@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5ae1bfc1dd20ac04e8b74aa0f2f12eea
+timeCreated: 1459956391
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62750
+  packageName: SciFi Simple Gun Turret Set
+  packageVersion: 1.0
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/PostProcessing/Editor
+    Resources/Monitors/ParadeRender.shader
+  uploadId: 227306

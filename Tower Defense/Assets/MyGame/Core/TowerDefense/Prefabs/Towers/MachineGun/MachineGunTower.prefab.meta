@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7c0dba931e033498aa3fcfdf50adb263
+timeCreated: 1499951974
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Prefabs/Towers/MachineGun/MachineGunTower.prefab
+  uploadId: 406584

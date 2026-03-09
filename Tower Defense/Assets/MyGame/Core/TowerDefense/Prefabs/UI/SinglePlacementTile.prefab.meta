@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0789fdd77165244beb6bdbaeb2fb3258
+timeCreated: 1498471133
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Prefabs/UI/SinglePlacementTile.prefab
+  uploadId: 406584

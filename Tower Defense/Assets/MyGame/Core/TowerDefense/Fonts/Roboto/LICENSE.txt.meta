@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f8d14f6d680104d46b4c70a419e9390b
+timeCreated: 1502090984
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Fonts/Roboto/LICENSE.txt
+  uploadId: 406584

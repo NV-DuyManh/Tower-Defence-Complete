@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 748aac75fbb1a464baef951d13553d5c
+timeCreated: 1496912761
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/Agents/Agent.cs
+  uploadId: 406584

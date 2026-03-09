@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 547509bc1b6945e0a3d7ef8631b7ede9
+timeCreated: 1498119210
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/Core/Input/PointerInfo.cs
+  uploadId: 406584

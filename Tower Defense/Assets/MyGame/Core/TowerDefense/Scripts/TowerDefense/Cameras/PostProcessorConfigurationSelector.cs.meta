@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 472ad35a535c40fcbe21e6ab8e0e9d5c
+timeCreated: 1501845557
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/TowerDefense/Cameras/PostProcessorConfigurationSelector.cs
+  uploadId: 406584

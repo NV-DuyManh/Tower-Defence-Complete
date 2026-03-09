@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bea0e36816ae445fcab5ee20f3e11b6e
+timeCreated: 1498451942
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Prefabs/UI/HUD/WaveContainer.prefab
+  uploadId: 406584

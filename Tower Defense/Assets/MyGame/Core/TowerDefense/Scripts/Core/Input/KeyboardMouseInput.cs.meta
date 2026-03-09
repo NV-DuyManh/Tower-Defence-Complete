@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 2cdab6f24b744f379fc187567cd32270
+timeCreated: 1503395226
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/Core/Input/KeyboardMouseInput.cs
+  uploadId: 406584

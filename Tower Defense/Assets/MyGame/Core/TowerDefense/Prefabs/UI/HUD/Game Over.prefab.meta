@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2eb1899defae34da2b354d8e1d91da35
+timeCreated: 1500373649
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Prefabs/UI/HUD/Game Over.prefab
+  uploadId: 406584

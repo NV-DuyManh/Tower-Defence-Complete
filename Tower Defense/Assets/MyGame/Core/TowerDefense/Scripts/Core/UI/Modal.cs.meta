@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9e0e2d0f38aa34f879212962158de591
+timeCreated: 1496037694
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Scripts/Core/UI/Modal.cs
+  uploadId: 406584

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 954b8b617492d4abfa445e19d2f70692
+timeCreated: 1499955416
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107692
+  packageName: Tower Defense Template
+  packageVersion: 1.4.1
+  assetPath: Assets/UnityTechnologies/TowerDefenseTemplate/Prefabs/Enemies/Super
+    Hovercopter.prefab
+  uploadId: 406584
